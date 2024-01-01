@@ -2,3 +2,12 @@ click==7.1.2
 Flask==1.1.2
 gunicorn==20.0.4
 itsdangerous==1.1.0
+numpy 
+pandas 
+plotly
+colorlover
+IPython
+urllib
+pyproj 
+dash
+
